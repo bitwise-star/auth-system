@@ -42,7 +42,7 @@ pnpm dev
 > ```json
 > {
 > 	"username": "Star",
-> 	"email": "carloshenriquebatista230@gmail.com",
+> 	"email": "test@gmail.com",
 > 	"password": "Teste123!"
 > }
 > ```
@@ -57,7 +57,7 @@ pnpm dev
 > **Request Body:**
 > ```json
 > {
-> 	"email": "carloshenriquebatista230@gmail.com",
+> 	"email": "test@gmail.com",
 > 	"password": "Teste123"
 > }
 > ```
@@ -74,7 +74,7 @@ pnpm dev
 > ```json
 > {
 > 	"id": 1,
-> 	"email": "carloshenriquebatista230@gmail.com",
+> 	"email": "test@gmail.com",
 > 	"username": "Star",
 > 	"createdAt": "2024-12-23T19:27:24.100Z"
 > }
